@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile  />
+    <Compile Remove="Models\New folder\**" />
     <EmbeddedResource Remove="Models\New folder\**" />
     <None Remove="Models\New folder\**" />
   </ItemGroup>
