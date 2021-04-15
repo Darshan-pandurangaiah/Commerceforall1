@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer\DataAccessLayer.csproj", "{EA143D49-D3B6-4D95-ABD6-F9B70107B4BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommerceApi", "CommerceApi\CommerceApi.csproj", "{1D1ADAE9-F769-4954-8179-079D30A031E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA143D49-D3B6-4D95-ABD6-F9B70107B4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA143D49-D3B6-4D95-ABD6-F9B70107B4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA143D49-D3B6-4D95-ABD6-F9B70107B4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA143D49-D3B6-4D95-ABD6-F9B70107B4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1ADAE9-F769-4954-8179-079D30A031E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1ADAE9-F769-4954-8179-079D30A031E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1ADAE9-F769-4954-8179-079D30A031E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1ADAE9-F769-4954-8179-079D30A031E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C85109-6675-4411-BD41-5F6A5C80B3DD}
+	EndGlobalSection
+EndGlobal

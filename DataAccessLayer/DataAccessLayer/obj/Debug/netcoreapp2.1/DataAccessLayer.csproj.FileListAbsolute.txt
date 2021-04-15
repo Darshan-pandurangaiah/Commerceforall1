@@ -1,0 +1,12 @@
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.json
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.runtimeconfig.dev.json
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\SourceCode\Commerceforall\DataAccessLayer\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.genruntimeconfig.cache
