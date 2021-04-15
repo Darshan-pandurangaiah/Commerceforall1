@@ -16,7 +16,7 @@ namespace DataAccessLayer.Models
         public string Name { get; set; }
         public int Roleid { get; set; }
         public string Password { get; set; }
-
+public string TempName { get; set; }
         public virtual Role Role { get; set; }
         public virtual ICollection<Orderdetail> Orderdetails { get; set; }
     }
